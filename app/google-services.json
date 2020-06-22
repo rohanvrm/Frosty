@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568982642402",
+    "firebase_url": "https://frosty-f5ada.firebaseio.com",
+    "project_id": "frosty-f5ada",
+    "storage_bucket": "frosty-f5ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568982642402:android:e910ed31188190e33a08bb",
+        "android_client_info": {
+          "package_name": "com.example.frosty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568982642402-sm6kmd49qfe8rjtudg75iqapnmqv7evv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhX-snWeurKhK5RXhsDqf1y9T8GmIAPWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568982642402-sm6kmd49qfe8rjtudg75iqapnmqv7evv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
