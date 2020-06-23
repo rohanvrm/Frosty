@@ -58,7 +58,7 @@ public class UserNameActivity extends AppCompatActivity {
 
     private FirebaseFirestore firestore;
 
-    private StorageReference     storage;
+    private StorageReference  storage;
     private String url="";
 
     public static final String USERNAME_PATTERN = "^[a-z0-9_-]{3,15}$";
